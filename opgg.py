@@ -16,7 +16,7 @@ players = [
 	   {"name": "Gitory","account":"PepooShy"} ,
 	   {"name": "ross","account":"rainbowplsv2"} ,
 	   {"name": "Pesche","account":"In my Chains"} ,
-	   {"name": "Aki","account":"dmzage"} ,
+	   {"name": "Aki","account":"HappierThanAki"} ,
 	   {"name": "Tilin/Kayn","account":"Tîlin Døta"} ,
 	   {"name": "Ariel ","account":"Piero Hincapié"} ,
 	   {"name": "HarryMcLovin ","account":"harrymclovin"} ,
