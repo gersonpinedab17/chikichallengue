@@ -1,2 +1,2 @@
-# chikichallengue
-*** ChikiChallengue ..
+# chikichallenge
+*** ChikiChallenge ..
