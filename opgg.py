@@ -4,8 +4,26 @@ from bs4 import *
 from tabulate import tabulate
 
 ############################ VARIABLES ########################################
-server = "euw"
-players = [{"name": "","account": ""},{"name": "","account":""}...]
+server = "lan"
+players = [
+	   {"name": "COCHASKI","account": "ARRIOLA"},
+	   {"name": "ItzMaGito","account":"rainbowpls"} ,
+	   {"name": "TaigaDsu ","account":"zxnbnfe"} ,
+	   {"name": "Jhontrapvolta ","account":"valgmyig"} ,
+	   {"name": "JuanDl25l ","account":"Ninô"} ,
+	   {"name": "Toñito ","account":"CHIK1NG"} ,
+	   {"name": "Calatito ","account":"haoskyx"} ,
+	   {"name": "Gitory","account":"PepooShy"} ,
+	   {"name": "ross","account":"rainbowplsv2"} ,
+	   {"name": "Pesche","account":"In my Chains"} ,
+	   {"name": "Aki","account":"dmzage"} ,
+	   {"name": "Tilin/Kayn","account":"Tîlin Døta"} ,
+	   {"name": "Ariel ","account":"Piero Hincapié"} ,
+	   {"name": "HarryMcLovin ","account":"harrymclovin"} ,
+	   {"name": "MrWarwick ","account":"Mr Vancri"} 
+	  
+	  
+	  ]
 ################################################################################
 ranks = ["Challenger","Grandmaster","Master","Diamond 1","Diamond 2","Diamond 3","Diamond 4","Platinum 1","Platinum 2","Platinum 3","Platinum 4","Gold 1","Gold 2","Gold 3","Gold 4","Silver 1","Silver 2","Silver 3","Silver 4","Bronze 1","Bronze 2","Bronze 3","Bronze 4","Iron 1","Iron 2","Iron 3", "Iron 4","Unranked"]
 printable_list = []
